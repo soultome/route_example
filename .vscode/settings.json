@@ -1,0 +1,10 @@
+{
+    "[dart]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit",
+            "source.fixAll": "explicit",
+             "quickfix.create.constructorForFinalFields": "explicit"
+        },
+    },
+    "svg.preview.background": "dark-transparent"
+}
